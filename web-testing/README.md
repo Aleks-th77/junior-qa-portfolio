@@ -1,2 +1,8 @@
 Web application testing project
-Сайт: https://the-internet.herokuapp.com
+Testing was performed on a public demo website:
+https://the-internet.herokuapp.com
+
+Scope:
+- Login functionality
+- Error handling
+
