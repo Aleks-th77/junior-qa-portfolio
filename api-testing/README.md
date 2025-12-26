@@ -1,2 +1,2 @@
-security/README.md
+Public API used for testing:
 https://jsonplaceholder.typicode.com
