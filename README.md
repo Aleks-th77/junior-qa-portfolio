@@ -20,6 +20,9 @@ Interested in manual testing and growing towards QA → Security.
 - Chrome DevTools
 - SQL
 - Jira (basic)
+- Jmeter
+- Android Studio
+- Charles Proxy
 
 ## Education
 **Computer Academy TOP** — Software Testing  
