@@ -15,3 +15,7 @@ Error message is correct and without typos
 
 **Severity:** Minor  
 **Priority:** Low
+
+Environment:
+- Browser: Chrome
+- OS: Windows
