@@ -38,5 +38,5 @@ Course program:
 - Security analysis (educational)
 
 ## Contacts
-- Email:
-- Telegram / LinkedIn:
+- Email: Lexus089a@mail.ru
+- Telegram: @Vitaliy897
