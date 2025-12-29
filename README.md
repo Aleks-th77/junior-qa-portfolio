@@ -4,7 +4,7 @@
 Junior QA tester.  
 Completed a Software Testing course at Computer Academy TOP (2024–2025).  
 Interested in manual testing and growing towards QA → Security.
-Currently looking for a Junior QA position or internship.
+Currently looking for a Junior QA position.
 
 ## Skills
 - Manual software testing
