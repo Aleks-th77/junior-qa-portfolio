@@ -1,4 +1,4 @@
-# Test Cases — Login
+# Testcase — Login
 
 ### TC-01 Login with valid credentials
 **Preconditions:** User is on login page  
