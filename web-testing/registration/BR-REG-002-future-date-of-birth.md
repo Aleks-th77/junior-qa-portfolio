@@ -9,7 +9,9 @@
 - Environment: Web
 - Browser: Chrome 143
 - Windows 11 про
-- Severity  Major
+- 
+## Severity
+Major
 
 ## Title
 Система позволяет зарегистрироваться с будущей датой рождения.
