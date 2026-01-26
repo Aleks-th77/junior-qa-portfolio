@@ -7,7 +7,7 @@
 - Environment: Web
 - Browser: Chrome 144
 - OS: Windows 11 Pro
-- 
+
 ## Severity
 Major 
 
