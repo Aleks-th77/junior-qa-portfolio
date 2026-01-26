@@ -7,9 +7,9 @@
 
 ## Окружение
 - Environment: Web
-- Browser: Chrome 143
+- Browser: Chrome 144
 - Windows 11 про
-- 
+ 
 ## Severity
 Major
 
