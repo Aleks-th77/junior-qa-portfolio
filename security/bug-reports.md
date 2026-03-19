@@ -1,4 +1,5 @@
-#Идентификатор ошибки 1#
+#Идентификатор ошибки 1
+
 *Environment:* 
 Win 11 Pro Chrome 146
 *Severity:* 
