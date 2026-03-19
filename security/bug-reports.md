@@ -1,10 +1,14 @@
 #Идентификатор ошибки 1
 
 *Environment:* 
+
 Win 11 Pro Chrome 146
-*Severity:* 
+
+*Severity:*
+
 Critical
-*Title: 
+
+**Title:** 
 Главная страница CodeLibs.ru уязвима к clickjacking, при загрузке сайта в <iframe> на стороннем домене, так как отсутствуют ограничения через X-Frame-Options и/или Content-Security-Policy: frame-ancestors.
 *Precondition:* 
 1. Страница https://www.CodeLibs.ru/ открыта в браузере
